@@ -8,6 +8,7 @@ h1 {
   font-size: 5rem;
   padding: 45px;
   border: 1px solid black;
+  text-transform: uppercase;
 }
 h1,
 p {
