@@ -1,0 +1,15 @@
+.parent {
+  border: 1px solid black;
+  font-family: sans-serif;
+  width: 70%;
+  margin: 10% auto;
+}
+h1 {
+  font-size: 5rem;
+  padding: 45px;
+  border: 1px solid black;
+}
+h1,
+p {
+  text-align: center;
+}
